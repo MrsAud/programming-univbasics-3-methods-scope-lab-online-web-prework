@@ -1,4 +1,5 @@
 def mario
+<<<<<<< HEAD
   puts "It's-a me, Mario!"
 end
 
@@ -13,3 +14,19 @@ end
 def any_phrase(character)
   puts character
 end
+=======
+  puts 
+end
+
+def toadstool
+  
+end
+
+def link
+  
+end
+
+def any_phrase
+  
+end
+>>>>>>> a8b04ae43ed26cc1830b163003152d754d1e189d
